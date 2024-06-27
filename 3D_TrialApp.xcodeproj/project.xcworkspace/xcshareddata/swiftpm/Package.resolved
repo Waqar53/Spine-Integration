@@ -1,0 +1,15 @@
+{
+  "originHash" : "310e11430851b9f37055d6ce6999bfa63177e6312ba7e4a75481ad7c8e7d4fea",
+  "pins" : [
+    {
+      "identity" : "spine",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxgribov/Spine",
+      "state" : {
+        "revision" : "8992a203febef0041bf3cfd64dfaf101d8f55629",
+        "version" : "3.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
